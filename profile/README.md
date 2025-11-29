@@ -4,7 +4,7 @@
 
 **实时将JavaScript代码转换为可用的Scratch项目。** 
 
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/cc117258-a2a6-451a-99d3-47c1ae1a254a" />
+<img width="256" height="256" alt="image" src="https://bgithub.xyz/user-attachments/assets/cc117258-a2a6-451a-99d3-47c1ae1a254a" />
 </div>
 
 ---
@@ -90,8 +90,7 @@ my-project:
 
 加入Jvavscratch社区，与其他开发者一起交流学习：
 
-- **GitHub讨论区**：在[Issues](https://github.com/Jvavscratch/jvavscratch/issues)中提问和讨论
-- **贡献指南**：查看[CONTRIBUTING.md](CONTRIBUTING.md)了解如何为项目做贡献
+- **GitHub讨论区**：在[Issues](https://github.com/Jvavscratch/discussion)中提问和讨论
 
 ## 许可证
 
