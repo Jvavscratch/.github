@@ -90,7 +90,7 @@ my-project:
 
 加入Jvavscratch社区，与其他开发者一起交流学习：
 
-- **GitHub讨论区**：在[Discussion](https://github.com/Jvavscratch/discussion)中提问和讨论
+- **GitHub讨论区**：在[Discussions](https://github.com/orgs/Jvavscratch/discussions)中提问和讨论
 
 ## 许可证
 
